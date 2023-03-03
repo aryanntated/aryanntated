@@ -9,7 +9,7 @@
 
 - 📫 How to reach me aryann.k.tated@gmail.com
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1beDEhC4Rnmxm2cPPHoFyrNb_Oc0qYRwT/view?usp=sharing] i dont have any experience. dont waste ur time on my github profile. (https://drive.google.com/file/d/1beDEhC4Rnmxm2cPPHoFyrNb_Oc0qYRwT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1beDEhC4Rnmxm2cPPHoFyrNb_Oc0qYRwT/view?usp=sharing (https://drive.google.com/file/d/1beDEhC4Rnmxm2cPPHoFyrNb_Oc0qYRwT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
