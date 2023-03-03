@@ -1,13 +1,13 @@
 [![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=2000x700)](https://aryanntated.io)
 <h1 align="center">Hi, Aryann here !</h1>
-<h3 align="center">An enthusiastic Data Science student from India that does nothing.</h3>
+<h3 align="center">An enthusiastic Data Science student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanntated&label=Profile%20views&color=0e75b6&style=flat" alt="aryanntated" /> </p>
 
-- 🌱 I’m currently learning **Nothing.**
+- 🌱 I’m currently learning Flutter and Machine learning
 
-- 📫 How to reach me **Dont Reache me **
+- 📫 How to reach me aryann.k.tated@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1beDEhC4Rnmxm2cPPHoFyrNb_Oc0qYRwT/view?usp=sharing] i dont have any experience. dont waste ur time on my github profile. (https://drive.google.com/file/d/1beDEhC4Rnmxm2cPPHoFyrNb_Oc0qYRwT/view?usp=sharing)
 
