@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanntated&label=Profile%20views&color=0e75b6&style=flat" alt="aryanntated" /> </p>
 
-- 🌱 I’m currently Machine Learning
+- 🌱 I’m currently learning Data Science and Machine Learning.
 
 - 📫 How to reach me aryann.k.tated@gmail.com
 
