@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanntated&label=Profile%20views&color=0e75b6&style=flat" alt="aryanntated" /> </p>
 
-- 🌱 I’m currently learning Flutter and Machine learning
+- 🌱 I’m currently Machine Learning
 
 - 📫 How to reach me aryann.k.tated@gmail.com
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1beDEhC4Rnmxm2cPPHoFyrNb_Oc0qYRwT/view?usp=sharing 
+- 📄 Know about my experiences https://drive.google.com/drive/folders/1mOHlc1FOcOeLOfFlvUUJG5Un-VNFfKCq?usp=sharing 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
