@@ -1,4 +1,3 @@
-## [![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=2000x700)](https://aryanntated.io)
 <h1 align="center">Hey, Aryann here.</h1>
 <h3 align="center">An enthusiastic Data Science student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
