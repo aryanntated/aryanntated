@@ -1,6 +1,6 @@
 <h1 align="center">Hey, Aryann here.</h1>
 <h3 align="center">An enthusiastic Data Science student from India.</h3>
-<img align="right" alt="Coding" width="450" height='300' src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" height='250' src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanntated&label=Profile%20views&color=0e75b6&style=flat" alt="aryanntated" /> </p>
 
