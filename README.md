@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 <h1 align="center">Hey, Aryann here.</h1>
 <h3 align="center">An enthusiastic Data Science student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
